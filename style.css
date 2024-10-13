@@ -10,7 +10,7 @@
     
     #calculator {
         font-family: Georgia, 'Times New Roman', Times, serif;
-        background-color: rgba(2, 68, 13, 0.582);
+        background-color: rgba(0, 0, 0, 0.829);
         border-radius: 10px;
         width: 100%;
         max-width: 500px; 
@@ -20,12 +20,12 @@
     
     #display {
         width: 100%;
-        padding: 20px;
+        height: 70px;
         font-size: 2.5rem; 
-        text-align: left;
+        text-align: right;
         border: none;
-        background-color: rgba(1, 46, 21, 0.562);
-        color: black;
+        background-color: rgba(0, 0, 0, 0.829);
+        color: white;
     }
     
     #keys {
